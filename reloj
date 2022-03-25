@@ -1,1 +1,17 @@
-display(Hour-EST)
+import button as BT
+import display as DP
+import datetime as DT
+target cellphone
+def ver_hora_est():
+"Fecha y hora de EST tmz"
+if no buttons activated: 
+print(fecha y hora en EST tmz) 
+Loop (every 1 seconds):
+check (hour) 
+check (min)
+check (sec)
+print (fecha y hora en EST tmz)
+until: buttons activated
+if: buttons activated
+print ("Hola que quieres hacer?") on display
+
